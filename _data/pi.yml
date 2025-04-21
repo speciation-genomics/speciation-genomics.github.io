@@ -1,0 +1,18 @@
+- name: Dr. Bruno Nevado
+  photo: nevado1.jpg
+  info: "I received a Ph.D. in Biology from the University of Antwerp (Belgium) in 2011. I conducted my postdoctoral research in the Universitat Autònoma de Barcelona, Spain (2012-2014) and the University of Oxford, UK (2014-2019). I am currently the PI of the Speciation Genomics Research Group of the Center for Ecology, Evolution and Environmental Changes, and Assistant Professor of Evolutionary Biology at the Faculty of Sciences, University of Lisbon. <br><br>I am  interested in understanding the evolutionary processes shaping rapid evolutionary radiations, such as those occurring in continental lakes, oceanic islands and mountain ranges. During my PhD I studied the iconic adaptive radiations of cichlid fish in the East African Great Lakes; and more recently I studied the evolutionary radiations in the genus Lupinus, and a variety of plant radiations spread throughout the world's richest biodiversity hotspots. My research combines field sampling and laboratory work with bioinformatics analysis using phylogenetic, population and evolutionary genetics methods, to test hypotheses about the driving forces of rapid diversification. Among other results, I have shown how climatic changes affected patterns of genetic diversity and gene flow between species during rapid diversifications in both lacustrine fish and high elevation plants; how natural selection plays a predominant role during rapid species diversification, even in so-called non-adaptive radiations; and how effective population size may play a central role in determining the frequency of natural selection during rapid diversification.<br><br>In addition to my main research line, I regularly collaborate on the analysis of molecular data in a variety of speciation and adaptation-focused projects involving fish, amphibians, insects, gastropods, mammals and plants; and I have developed different bioinformatics tools and approaches to use NGS data in evolutionary research."
+  email: bnevado@fc.ul.pt
+  github: https://github.com/brunonevado
+  researchgate: https://www.researchgate.net/profile/Bruno-Nevado
+  scholar: https://scholar.google.com/citations?user=hd2yY3IAAAAJ&hl=en
+#  cv: cv/cv.pdf
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "(Since 2024) Assistant Professor of Evolutionary Biology, University of Lisbon, Portugal",
+      "(2020–2024) Research Group Leader, University of Lisbon, Portugal",
+      "(2014–2019) Postdoctoral Researcher, University of Oxford, Oxford, UK",
+      "(2012–2014) Postdoctoral Researcher, Autonomous University of Barcelona, Bellaterra, ES"  
+    ]
+
+

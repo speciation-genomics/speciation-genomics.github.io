@@ -1,0 +1,17 @@
+- name: Dr. Varvara Fazalova
+  photo: vfazalova.jpg
+  info: "Varvara Fazalova received a Ph.D. in Genetics from the Vavilov Institute of General Genetics of the Russian Academy of Sciences in 2013 and is currently volunteering in our Group.<br><br>Varvara completed post-doctoral training as a Marie Skłodowska-Curie Research Fellow in the University of Oxford in 2016-2019. Her previous research was focused on speciation and combined analysis of whole-genome resequencing data, mating experiments and numerical individual-based modelling."
+  email: fazalova@gmail.com
+#  website: https://website.com
+
+- name: Diana Morais
+  photo: dmorais.jpg
+  info: "Diana Morais is conducting a Ph.D. in Biodiversity, Genetics and Evolution at the University of Lisbon. Her PhD thesis is entitled \"The pace of speciation under ecological and genomic constraints\", and is being performed under the supervision of Bruno Nevado and Ivo Chelo. The project aims to understand how population bottlenecks and ecological divergence drive the evolution of reproductive isolation, using different study systems available in the Research Group."
+  email: dmorais@fc.ul.pt
+#  website: https://website.com
+
+- name: Inês Vieira
+  photo: ivieira.jpg
+  info: "Inês Vieira is conducting a MSc in Bioinformatics and Computational Biology at the University of Lisbon, under the supervision of Bruno Nevado. Her project aims to characterise the effect of reference bias in the analysis of large phylogenomic datasets."
+  email: fc57875@alunos.ciencias.ulisboa.pt
+#  website: https://website.com
